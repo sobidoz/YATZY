@@ -29,6 +29,10 @@ Prosta, w pełni samodzielna gra w kości Yatzy (Yahtzee) napisana w HTML + CSS 
 - Responsywny design
 - Favicona i efekt dźwiękowy w base64
 
+### Jak używać:
+Otwórz plik `index.html` w przeglądarce lub odwiedź wersję online:
+https://sobidoz.github.io/YATZY/
+
 ### Licencja:
 CC BY-NC 4.0 – dozwolone użycie prywatne, edukacyjne, niekomercyjne.  
 Zabronione użycie komercyjne, sprzedaż, monetyzacja.
@@ -67,6 +71,10 @@ A simple, fully standalone Yatzy (Yahtzee) dice game written in HTML + CSS + Jav
 - No external dependencies – works offline
 - Responsive design
 - Favicon & sound encoded as base64
+
+### How to use:
+Open `index.html` in browser or visit online version: 
+https://sobidoz.github.io/YATZY/
 
 ### License:
 CC BY-NC 4.0 – private, educational, non-commercial use allowed.  
